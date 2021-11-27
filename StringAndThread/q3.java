@@ -3,5 +3,8 @@
 package Java.LabQuestions.StringAndThread;
 
 public class q3 {
-    
+    public static void main(String[] args){
+        String[] namelist = {"kamal", "Indra", "tek", "Prashant", "pramod", "Praveen"}; 
+        System.out.println();
+    }
 }
