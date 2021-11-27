@@ -3,5 +3,11 @@
 package Java.LabQuestions.ExceptionHandling;
 
 public class q1 {
-    
+    public static void main(String[] args){
+        try {
+            
+        } catch (Exception e) {
+            
+        }
+    }
 }

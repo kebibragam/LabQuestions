@@ -1,4 +1,4 @@
-//Write   a   program   to   demonstrate   the   exceptional   handling   for   ArrayIndexOutOfBounds   andNullPointerException in java.
+//Write   a   program   to   demonstrate   the   exceptional   handling   for   ArrayIndexOutOfBounds   and NullPointerException in java.
 
 package Java.LabQuestions.ExceptionHandling;
 
