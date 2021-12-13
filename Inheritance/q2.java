@@ -11,8 +11,8 @@ package Java.LabQuestions.Inheritance;
 /**
  * Shape
  */
-public interface Shape {
-    double getArea(); 
+abstract class Shape {
+    abstract double getArea(double l, double b);
 }
 
 
@@ -54,7 +54,7 @@ class Circle implements Shape{
 public class q2 {
     public static void main(String[] args){
         // Create an array of type Shape to hold 10 objects(e.g Shape s[]=new Shape[10]) which holds differenttypes   of   objects   like   rectangle   object,   square   object   or   circle   object.   Finally   print   the   areas   of   theobjects present in the Shape array
-        Shape S[]= new Shape[10]; 
-        S ={};
+        Shape s[] = new Shape[10];
+
     }
 }
