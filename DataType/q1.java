@@ -1,6 +1,6 @@
 //WAP that asks three integers from users and print the Greatest number.
 
-package Java.LabQuestions.DataType;
+package LabQuestions.DataType ;
 
 import java.util.Scanner;
 

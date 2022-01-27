@@ -1,6 +1,6 @@
 //WAP to print pattern
 
-package Java.LabQuestions.DataType;
+package LabQuestions.DataType;
 
 public class q2i {
     public static void main(String[] args) {
